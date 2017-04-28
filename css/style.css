@@ -1,0 +1,17 @@
+div#test
+{ 
+	border:Red 10px groove;
+	padding:10px 40px 40px 40px;
+	margin-top: 90px;
+    margin-bottom: 40px;
+    margin-right: 70px;
+}
+	
+body
+{
+	background-image: url("../img/premier-league.jpg");
+	padding-top: 20px;
+ font: bold;    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+}
